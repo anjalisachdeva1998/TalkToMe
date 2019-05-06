@@ -21,8 +21,11 @@ To run the application in android -
 3) Store main.py, pictures used and android.txt in kivy folder
 4) The android.txt contains -
 
-  title=<Application Title>
-  author=<Your Name>
-  orientation=<portrait|landscape>
+  title= Application Title
+  
+  author= Your Name
+  
+  orientation= portrait or landscape
+  
 
 5) Open the kivy launcher and run the app
