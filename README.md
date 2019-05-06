@@ -2,9 +2,12 @@
 An application made for the people with hearing and speech impairment, written in Python and uses open source Python framework , Kivy for the graphical user interface.
 
 The app currently provides 4 services 
- •	Speech to Text Conversion
+ •	Speech to Text Conversion 
+ 
  •  Text to Speech Conversion
+ 
  •  Alarm - produces sound above an amplitude which is audible by the people with hearing impairment
+ 
  •  Taking Notes (Not developed currently) - To take notes in class
 
 
